@@ -1,0 +1,28 @@
+{
+    "charities": [
+        {
+            "id": "1",
+            "label": "Red Cross",
+            "value": "17Su4UtypPejprVkVUxuyAcKhLKFb8YqZL",
+            "website": "https://www.redcross.org",
+            "description": "Australian Red Cross is there for people in need, no matter who you are, no matter where you live.",
+            "logo": "https://www.ccca.com.au/cdn/Images/Customisations/Ccca/Clients/australian-redcross-logo.png"
+        },
+        {
+            "id": "2",
+            "label": "Salvation Army",
+            "value": "1HiMoMgBaAikFHgAt3M4YJtetp4HrnsiXu",
+            "website": "https://www.salvationarmy.org",
+            "description": "The Salvation Army helps provide hope, opportunity and freedom to all Australians without discrimination.",
+            "logo": "http://yambagolf.com.au/wp-content/uploads/2018/11/SALVATION-ARMY-SMALL.jpeg"
+        },
+        {
+            "id": "3",
+            "label": "Glenn McGrath Foundation",
+            "value": "1Moq6xVGXvrUAebaCK7KuE6Rds7c3EA8Mu",
+            "website": "https://www.gmgfoundation.org",
+            "description": "The McGrath Foundation raises money to place Breast Care Nurses in communities across Australia and increase breast awareness",
+            "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/McGrathFoundation_Master_Logo_.png/1200px-McGrathFoundation_Master_Logo_.png"
+        }
+    ]
+}
